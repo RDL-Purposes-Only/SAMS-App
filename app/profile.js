@@ -1,3 +1,4 @@
+//example code only
 import React, { useState } from "react";
 import {
   SafeAreaView,
